@@ -15,7 +15,7 @@
     "commander": "^2.20.0",
     "cppunitlite": "brave/CppUnitLite",
     "mocha": "^6.1.4",
-    "node-gyp": "^4.0.0",
+    "node-gyp": "^9.4.0",
     "pre-commit": "^1.2.2",
     "s3-client": "^4.4.2",
     "standard": "^12.0.1"
